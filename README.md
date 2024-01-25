@@ -33,6 +33,6 @@ Follow the instructions in the notebook to train the model and make predictions.
 The notebook includes visualizations using Matplotlib to illustrate the training process, model predictions, and overall performance.
 
 ## License
-This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License.
+This project is licensed under the [MIT]([https://choosealicense.com/licenses/mit/](https://github.com/TusharPatil-98/time_series_prediction_1/blob/main/LICENSE)https://github.com/TusharPatil-98/time_series_prediction_1/blob/main/LICENSE) License.
 
 Feel free to reach out if you have any questions or feedback!
