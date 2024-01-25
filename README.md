@@ -10,7 +10,7 @@ Ensure you have the following dependencies installed before running the notebook
 * NumPy: [Installation instructions](https://pypi.org/project/numpy/)
 
 ## Dataset
-The notebook uses a time series dataset, which should be provided in a CSV format. Ensure that the dataset is loaded correctly in the notebook and that it includes the necessary columns for training the model.
+The notebook uses a time series dataset, which will be generated in real-time.
 
 ## Usage
 Clone the repository:
